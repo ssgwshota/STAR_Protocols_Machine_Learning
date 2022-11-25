@@ -1,0 +1,10 @@
+
+install.packages("data.table")
+install.packages("tidyverse")
+install.packages("rpart")
+install.packages("rpart.plot")
+install.packages("partykit")
+install.packages("ROCR")
+install.packages("ggparty")
+install.packages("caret")
+install.packages("randomForest")
